@@ -1,4 +1,4 @@
-def hello_t([])
+def hello_t(["Tim", "Tom", "Jim"]) do |name|
     i = 0 
     while i < array.length 
     yield array [i]
