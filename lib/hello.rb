@@ -14,3 +14,4 @@ hello_t(["Tim", "Tom", "Jim"])
     puts "Hi, #{name}"
   end
 end
+end
